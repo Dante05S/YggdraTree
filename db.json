@@ -13,77 +13,77 @@
         {
             "id": 1,
             "nombre": "Kanoe",
-            "imgIcono": "../assets/img/pg-personajes/characters/Kanoe.png"
+            "imgIcono": "Kanoe.png"
         },
         {
             "id": 2,
             "nombre": "Gratias",
-            "imgIcono": "../assets/img/pg-personajes/characters/Gratias.png"
+            "imgIcono": "Gratias.png"
         },
         {
             "id": 3,
             "nombre": "Frigg",
-            "imgIcono": "../assets/img/pg-personajes/characters/Frigg.png"
+            "imgIcono": "Frigg.png"
         },
         {
             "id": 4,
             "nombre": "Lucy Gullveig",
-            "imgIcono": "../assets/img/pg-personajes/characters/Lucy Gul.png"
+            "imgIcono": "Lucy Gul.png"
         },
         {
             "id": 5,
             "nombre": "Elineige",
-            "imgIcono": "../assets/img/pg-personajes/characters/Elineige.png"
+            "imgIcono": "Elineige.png"
         },
         {
             "id": 6,
             "nombre": "Elsa",
-            "imgIcono": "../assets/img/pg-personajes/characters/Elsa.png"
+            "imgIcono": "Elsa.png"
         },
         {
             "id": 7,
             "nombre": "Celica",
-            "imgIcono": "../assets/img/pg-personajes/characters/Celica.png"
+            "imgIcono": "Celica.png"
         },
         {
             "id": 8,
             "nombre": "Valkyria rota",
-            "imgIcono": "../assets/img/pg-personajes/characters/Valkyria rota.png"
+            "imgIcono": "Valkyria rota.png"
         },
         {
             "id": 9,
             "nombre": "Fang-Hu",
-            "imgIcono": "../assets/img/pg-personajes/characters/Fang-Hu.png"
+            "imgIcono": "Fang-Hu.png"
         },
         {
             "id": 10,
             "nombre": "Ipsum",
-            "imgIcono": "../assets/img/pg-personajes/characters/Ipsum.png"
+            "imgIcono": "Ipsum.png"
         },
         {
             "id": 11,
             "nombre": "Ulin",
-            "imgIcono": "../assets/img/pg-personajes/characters/Ulin.png"
+            "imgIcono": "Ulin.png"
         },
         {
             "id": 12,
             "nombre": "Grace",
-            "imgIcono": "../assets/img/pg-personajes/characters/Grace.png"
+            "imgIcono": "Grace.png"
         },
         {
             "id": 13,
             "nombre": "Gullveig Awake",
-            "imgIcono": "../assets/img/pg-personajes/characters/GullveigAwake.png"
+            "imgIcono": "GullveigAwake.png"
         },
         {
             "id": 14,
             "nombre": "Shinji catalizador",
-            "imgIcono": "../assets/img/pg-personajes/characters/Shinji catalizador.png"
+            "imgIcono": "Shinji catalizador.png"
         },
         {
             "id": 15,
             "nombre": "Nautica",
-            "imgIcono": "../assets/img/pg-personajes/characters/Nautica.png"
+            "imgIcono": "Nautica.png"
         }
     ]
 }
