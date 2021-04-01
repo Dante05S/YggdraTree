@@ -10,6 +10,7 @@
   },
   "personajes":
     [
+      {
         "Kanoe":{
             "id": 1,
             "nombre": "Kanoe",
@@ -85,5 +86,6 @@
             "nombre": "Nautica",
             "imgIcono": "../assets/img/pg-personajes/characters/Nautica.png"
         }
+      }
     ]
 }
