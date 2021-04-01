@@ -11,7 +11,8 @@
   "personajes":
     [
       {
-        "Kanoe":{
+        "Kanoe":
+        {
             "id": 1,
             "nombre": "Kanoe",
             "imgIcono": "../assets/img/pg-personajes/characters/Kanoe.png"
