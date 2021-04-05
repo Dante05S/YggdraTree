@@ -14,91 +14,106 @@
             "id": 1,
             "nombre": "Kanoe",
             "imgCompleta": "Kanoe.png",
-            "imgIcono": "Kanoe.png"
+            "imgIcono": "Kanoe.png",
+            "imgResistencia": "Resistencia Kanoe.png"
         },
         {
             "id": 2,
             "nombre": "Gratias",
             "imgCompleta": "Gratias.png",
-            "imgIcono": "Gratias.png"
+            "imgIcono": "Gratias.png",
+            "imgResistencia": "Resistencia Gratias.png"
         },
         {
             "id": 3,
             "nombre": "Frigg",
             "imgCompleta": "Frigg.png",
-            "imgIcono": "Frigg.png"
+            "imgIcono": "Frigg.png",
+            "imgResistencia": "Resistencia Frigg.png"
         },
         {
             "id": 4,
             "nombre": "Lucy Gullveig",
             "imgCompleta": "Lucy Gul.png",
-            "imgIcono": "Lucy Gul.png"
+            "imgIcono": "Lucy Gul.png",
+            "imgResistencia": "Resistencia Lucy Gul.png"
         },
         {
             "id": 5,
             "nombre": "Elineige",
             "imgCompleta": "Elineige.png",
-            "imgIcono": "Elineige.png"
+            "imgIcono": "Elineige.png",
+            "imgResistencia": "Resistencia Elineige.png"
         },
         {
             "id": 6,
             "nombre": "Elsa",
             "imgCompleta": "Elsa.png",
-            "imgIcono": "Elsa.png"
+            "imgIcono": "Elsa.png",
+            "imgResistencia": "Resistencia Elsa.png"
         },
         {
             "id": 7,
             "nombre": "Celica",
             "imgCompleta": "Celica.png",
-            "imgIcono": "Celica.png"
+            "imgIcono": "Celica.png",
+            "imgResistencia": "Resistencia Celica.png"
         },
         {
             "id": 8,
             "nombre": "Valkyria rota",
             "imgCompleta": "Valkyria rota.png",
-            "imgIcono": "Valkyria rota.png"
+            "imgIcono": "Valkyria rota.png",
+            "imgResistencia": "Resistencia Valkyria rota.png"
         },
         {
             "id": 9,
             "nombre": "Fang-Hu",
             "imgCompleta": "Fang-Hu.png",
-            "imgIcono": "Fang-Hu.png"
+            "imgIcono": "Fang-Hu.png",
+            "imgResistencia": "Resistencia Fang-Hu.png"
         },
         {
             "id": 10,
             "nombre": "Ipsum",
             "imgCompleta": "Ipsum.png",
-            "imgIcono": "Ipsum.png"
+            "imgIcono": "Ipsum.png",
+            "imgResistencia": "Resistencia Ipsum.png"
         },
         {
             "id": 11,
             "nombre": "Ulin",
             "imgCompleta": "Ulin.png",
-            "imgIcono": "Ulin.png"
+            "imgIcono": "Ulin.png",
+            "imgResistencia": "Resistencia Ulin.png"
         },
         {
             "id": 12,
             "nombre": "Grace",
             "imgCompleta": "Grace.png",
-            "imgIcono": "Grace.png"
+            "imgIcono": "Grace.png",
+            "imgResistencia": "Resistencia Grace.png"
         },
         {
             "id": 13,
             "nombre": "Gullveig Awake",
             "imgCompleta": "GullveigAwake.png",
-            "imgIcono": "GullveigAwake.png"
+            "imgIcono": "GullveigAwake.png",
+            "imgResistencia": "Resistencia GullveigAwake.png"
         },
         {
             "id": 14,
             "nombre": "Catalizador Shinji",
             "imgCompleta": "Shinji catalizador.png",
-            "imgIcono": "Shinji catalizador.png"
+            "imgIcono": "Shinji catalizador.png",
+            "imgResistencia": "Resistencia Shinji catalizador.png"
         },
         {
             "id": 15,
             "nombre": "Nautica",
             "imgCompleta": "Nautica.png",
-            "imgIcono": "Nautica.png"
+            "imgIcono": "Nautica.png",
+            "imgResistencia": "Resistencia Nautica.png"
         }
     ]
 }
