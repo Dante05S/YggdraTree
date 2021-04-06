@@ -43,6 +43,7 @@
                  {
                    "1":
                     {
+                     "id": 1,
                      "objetivo": "Enemigo más cercano",
                      "accion":
                       {
@@ -51,6 +52,7 @@
                     },
                     "2":
                     {
+                      "id": 2,
                       "objetivo": "Enemigo más lejano",
                       "accion":
                       {
@@ -59,6 +61,7 @@
                     },
                     "3":
                     {
+                      "id": 3,
                       "objetivo": "Todos los enemigos",
                       "accion":
                       {
@@ -70,6 +73,7 @@
                     },
                     "4":
                     {
+                      "id": 4,
                       "objetivo": "Todos los aliados",
                       "accion":
                       {
@@ -86,6 +90,7 @@
                  {
                     "1":
                     {
+                      "id": 1,
                       "objetivo": "Todos los enemigos",
                       "accion":
                       {
@@ -95,6 +100,7 @@
                    
                     "2":
                     {
+                      "id": 2,
                       "objetivo": "Todos los grupos aliados",
                       "accion":
                       {
@@ -111,6 +117,7 @@
                   {
                     "1":
                     {
+                      "id": 1,
                       "nombre": "Resistencia a gravedad (Constante)",
                       "objetivo": "El héroe",
                       "nivelHab":
@@ -125,6 +132,7 @@
                     
                     "2":
                     {
+                      "id": 2,
                       "nombre": "Fuerza valerosa <3> (Con.)",
                       "objetivo": "Aliados más cercanos",
                       "nivelHab":
@@ -139,6 +147,7 @@
                     
                     "3":
                     {
+                      "id": 3,
                       "nombre": "Inmunidad a ataques <3> (Aper./Con.)",
                       "objetivo": "3 Aliados más cercanos",
                       "nivelHab":
@@ -157,6 +166,7 @@
                {
                  "1":
                  {
+                   "id": 1,
                    "nombre": "Vidofnir",
                    "imgIcono": "Vidofnir.png"
                  }
