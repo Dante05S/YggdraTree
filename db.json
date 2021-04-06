@@ -15,7 +15,152 @@
             "nombre": "Kanoe",
             "imgCompleta": "Kanoe.png",
             "imgIcono": "Kanoe.png",
-            "imgResistencia": "Resistencia Kanoe.png"
+            "perfil":
+            {
+              "tipo": "Cuerpo a cuerpo / Terrestre",
+              "raza": "Aesir / Femenino",
+              "despertar": "Sin despertar",
+              "elemento": "Agua"
+            },
+          
+            "capacidades":
+            {
+              "pv":[1755,39875],
+              "atq":[286,7889],
+              "atqm":[85,2531],
+              "def":[226,6912],
+              "defm":[156,4844],
+              "vel":[157,3394],
+              "eva":[107,3848],
+              "pre":[118,2956]
+            },
+              "imgResistencia": "Resistencia Kanoe.png",
+              
+              "habAccion":
+              {
+                "nombre": "Agua aplastante",
+                "habilidades":
+                 {
+                   "1":
+                    {
+                     "objetivo": "Enemigo más cercano",
+                     "accion":
+                      {
+                        "1": "200% del daño de ATQ de agua * Aumento del 20% del daño contra enemigos terrestres."
+                      }
+                    },
+                    "2":
+                    {
+                      "objetivo": "Enemigo más lejano",
+                      "accion":
+                      {
+                        "1": "200% del daño de ATQ de agua * Aumento del 20% del daño contra enemigos terrestres."
+                      }  
+                    },
+                    "3":
+                    {
+                      "objetivo": "Todos los enemigos",
+                      "accion":
+                      {
+                        "1": "160% del daño de ATQ de agua * Aumento del 20% del daño contra enemigos terrestres.",
+                        "2": "Vórtice x 3 turnos * Solo afecta a Elfo, Terio y Bestia.",
+                        "3": "Disminución del 30 de la DEF x 3 turnos.",
+                        "4": "Disminución del 30 de la DEFM x 3 turno."
+                      }
+                    },
+                    "4":
+                    {
+                      "objetivo": "Todos los aliados",
+                      "accion":
+                      {
+                        "1": "Circulo de agua x 3 turnos."
+                      }
+                    }
+                  }
+               },
+          
+               "limitBurst":
+               {
+                 "nombre": "Desfiladero de hielo",
+                 "habilidades":
+                 {
+                    "1":
+                    {
+                      "objetivo": "Todos los enemigos",
+                      "accion":
+                      {
+                        "1": "40% del daño medio de ATQ y ATQM de agua 5 veces"  
+                      } 
+                    },
+                   
+                    "2":
+                    {
+                      "objetivo": "Todos los grupos aliados",
+                      "accion":
+                      {
+                        "1": "Aumento del 10% de la DEF x 5 turnos",
+                        "2": "Aumento del 10% de la DEFM x 5 turnos"
+                      }
+                    }
+                 }
+               },
+          
+               "habPasiva":
+               {
+                  "habilidades":
+                  {
+                    "1":
+                    {
+                      "nombre": "Resistencia a gravedad (Constante)",
+                      "objetivo": "El héroe",
+                      "nivelHab":
+                      {
+                        "1": "(Constante) Aumento del 20% de la resistencia a Campo de gravedad",
+                        "2": "(Constante) Aumento del 40% de la resistencia a Campo de gravedad",
+                        "3": "(Constante) Aumento del 60% de la resistencia a Campo de gravedad",
+                        "4": "(Constante) Aumento del 80% de la resistencia a Campo de gravedad",
+                        "5": "(Constante) Aumento del 100% de la resistencia a Campo de gravedad"
+                      }
+                    },
+                    
+                    "2":
+                    {
+                      "nombre": "Fuerza valerosa <3> (Con.)",
+                      "objetivo": "Aliados más cercanos",
+                      "nivelHab":
+                      {
+                        "1": "(Constante) Aumento del 8% del ATQ, (Constante) Aumento del 8% del ATQM",
+                        "2": "(Constante) Aumento del 11% del ATQ, (Constante) Aumento del 11% del ATQM",
+                        "3": "(Constante) Aumento del 14% del ATQ, (Constante) Aumento del 14% del ATQM",
+                        "4": "(Constante) Aumento del 17% del ATQ, (Constante) Aumento del 17% del ATQM",
+                        "5": "(Constante) Aumento del 20% del ATQ, (Constante) Aumento del 20% del ATQM"
+                      }  
+                    },
+                    
+                    "3":
+                    {
+                      "nombre": "Inmunidad a ataques <3> (Aper./Con.)",
+                      "objetivo": "3 Aliados más cercanos",
+                      "nivelHab":
+                      {
+                        "1": "Aumento del 50% de la resistencia a estados alterados x 5 turnos, (Constante) Aumento del 8% del ATQ",
+                        "2": "Aumento del 50% de la resistencia a estados alterados x 5 turnos, (Constante) Aumento del 11% del ATQ",
+                        "3": "Aumento del 50% de la resistencia a estados alterados x 5 turnos, (Constante) Aumento del 14% del ATQ",
+                        "4": "Aumento del 50% de la resistencia a estados alterados x 5 turnos, (Constante) Aumento del 17% del ATQ",
+                        "5": "Aumento del 50% de la resistencia a estados alterados x 5 turnos, (Constante) Aumento del 20% del ATQ"
+                      }
+                    }
+                  }
+               },
+          
+               "connects":
+               {
+                 "1":
+                 {
+                   "nombre": "Vidofnir",
+                   "imgIcono": "Vidofnir.png"
+                 }
+               }     
         },
         {
             "id": 2,
