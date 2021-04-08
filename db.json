@@ -200,41 +200,6 @@
             "imgIcono": "Elineige.png",
             "imgResistencia": "Resistencia Elineige.png"
         },
-        {
-            "id": 6,
-            "nombre": "Elsa",
-            "imgCompleta": "Elsa.png",
-            "imgIcono": "Elsa.png",
-            "imgResistencia": "Resistencia Elsa.png"
-        },
-        {
-            "id": 7,
-            "nombre": "Celica",
-            "imgCompleta": "Celica.png",
-            "imgIcono": "Celica.png",
-            "imgResistencia": "Resistencia Celica.png"
-        },
-        {
-            "id": 8,
-            "nombre": "Valkyria rota",
-            "imgCompleta": "Valkyria rota.png",
-            "imgIcono": "Valkyria rota.png",
-            "imgResistencia": "Resistencia Valkyria rota.png"
-        },
-        {
-            "id": 9,
-            "nombre": "Fang-Hu",
-            "imgCompleta": "Fang-Hu.png",
-            "imgIcono": "Fang-Hu.png",
-            "imgResistencia": "Resistencia Fang-Hu.png"
-        },
-        {
-            "id": 10,
-            "nombre": "Ipsum",
-            "imgCompleta": "Ipsum.png",
-            "imgIcono": "Ipsum.png",
-            "imgResistencia": "Resistencia Ipsum.png"
-        }
     ],
   
   "Equipamiento":
