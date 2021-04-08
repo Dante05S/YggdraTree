@@ -185,20 +185,6 @@
             "imgCompleta": "Frigg.png",
             "imgIcono": "Frigg.png",
             "imgResistencia": "Resistencia Frigg.png"
-        },
-        {
-            "id": 4,
-            "nombre": "Lucy Gullveig",
-            "imgCompleta": "Lucy Gul.png",
-            "imgIcono": "Lucy Gul.png",
-            "imgResistencia": "Resistencia Lucy Gul.png"
-        },
-        {
-            "id": 5,
-            "nombre": "Elineige",
-            "imgCompleta": "Elineige.png",
-            "imgIcono": "Elineige.png",
-            "imgResistencia": "Resistencia Elineige.png"
         }
     ],
   
@@ -291,62 +277,6 @@
           "tipo": "ATQ",
           "base": 280,
           "max": 1026 
-        }
-      }
-    },
-    {
-      "id": 4,
-      "nombre": "Guantelete Shinji",
-      "icono": "Melee/Guantelete Shinji.png",
-      "infoBasica":
-      {
-        "tipo": "Equipamiento",
-        "damage": "ATQ",
-        "elemento": "Agua",
-        "resTipo": "Cuerpo a cuerpo",
-        "resRaza": "Ninguna"
-      },
-      "estadisticas":
-      {
-        "1":
-        {
-          "tipo": "ATQ",
-          "base": 206,
-          "max": 1057
-        },
-        "2":
-        {
-          "tipo": "DEF",
-          "base": 64,
-          "max": 328 
-        }
-      }
-    },
-    {
-      "id": 5,
-      "nombre": "Gungir lanza",
-      "icono": "Melee/Gungir lanza.png",
-      "infoBasica":
-      {
-        "tipo": "Equipamiento",
-        "damage": "ATQ,ATQM",
-        "elemento": "Agua",
-        "resTipo": "Ninguna",
-        "resRaza": "Aesir,Humano"
-      },
-      "estadisticas":
-      {
-        "1":
-        {
-          "tipo": "ATQ",
-          "base": 196,
-          "max": 693
-        },
-        "2":
-        {
-          "tipo": "ATQM",
-          "base": 196,
-          "max": 693 
         }
       }
     }
