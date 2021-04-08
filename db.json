@@ -292,6 +292,15 @@
         }
       }
     }
+  ],
+  
+  "connects":
+  [    
+    {
+      "id": 1,
+      "nombre": "Vidofnir",
+      "imgIcono": "Vidofnir.png"
+    }
   ]
     
 }
