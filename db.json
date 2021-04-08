@@ -215,6 +215,21 @@
         "elemento": "Agua",
         "resTipo": "Magico",
         "resRaza": "Ninguna"
+      },
+      "estadisticas":
+      {
+        "1":
+        {
+          "tipo": "ATQM"
+          "base": 176,
+          "max": 903
+        },
+        "2":
+        {
+          "tipo": "DEFM"
+          "base": 114,
+          "max": 585 
+        }
       }
     },
     {
