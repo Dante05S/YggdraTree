@@ -270,5 +270,180 @@
             "imgIcono": "Nautica.png",
             "imgResistencia": "Resistencia Nautica.png"
         }
-    ]
+    ],
+  
+  "Equipamiento":
+  [
+    {
+      "id": 1,
+      "nombre": "Baston nieve",
+      "icono": "Baston nieve.png"
+    },
+    {
+      "id": 2,
+      "nombre": "Alfanje",
+      "icono": "Alfanje.png"
+    },
+    {
+      "id": 3,
+      "nombre": "Devlogrid",
+      "icono": "Devlogrid.png"
+    },
+    {
+      "id": 4,
+      "nombre": "Guantelete Shinji",
+      "icono": "Guantelete Shinji.png"
+    },
+    {
+      "id": 5,
+      "nombre": "Gungir lanza",
+      "icono": "Gungir lanza.png"
+    },
+    {
+      "id": 6,
+      "nombre": "Hacha Shinji",
+      "icono": "Hacha Shinji.png"
+    },
+    {
+      "id": 7,
+      "nombre": "Lanza resurreccion",
+      "icono": "Lanza resurreccion.png"
+    },
+    {
+      "id": 8,
+      "nombre": "Espada oceanica",
+      "icono": "Espada oceanica.png"
+    },
+    {
+      "id": 9,
+      "nombre": "Schmerznebel",
+      "icono": "Schmerznebel.png"
+    },
+    {
+      "id": 10,
+      "nombre": "Shishimai",
+      "icono": "Shishimai.png"
+    },
+    {
+      "id": 11,
+      "nombre": "Tridente escalofrios",
+      "icono": "Tridente escalofrios.png"
+    },
+    {
+      "id": 12,
+      "nombre": "Uniforme Willy",
+      "icono": "Uniforme Willy.png"
+    },
+    {
+      "id": 13,
+      "nombre": "Baston encarcelamiento",
+      "icono": "Baston encarcelamiento.png"
+    },
+    {
+      "id": 14,
+      "nombre": "Baston lagrima dragon",
+      "icono": "Baston lagrima dragon.png"
+    },
+    {
+      "id": 15,
+      "nombre": "Baston nieve",
+      "icono": "Baston nieve.png"
+    },
+    {
+      "id": 16,
+      "nombre": "Caña oceanica",
+      "icono": "Caña oceanica.png"
+    },
+    {
+      "id": 17,
+      "nombre": "Cetro glaciar",
+      "icono": "Cetro glaciar.png"
+    },
+    {
+      "id": 18,
+      "nombre": "Escudo agua,
+      "icono": "Escudo agua.png"
+    },
+    {
+      "id": 19,
+      "nombre": "Espejo hielo",
+      "icono": "Espejo hielo.png"
+    },
+    {
+      "id": 20,
+      "nombre": "Llave agua",
+      "icono": "Llave agua.png"
+    },
+    {
+      "id": 21,
+      "nombre": "Pistola celeste,
+      "icono": "Pistola celeste.png"
+    },
+    {
+      "id": 22,
+      "nombre": "Revolveres vortex",
+      "icono": "Revolveres vortex.png"
+    },
+    {
+      "id": 23,
+      "nombre": "Tiranos cobalto",
+      "icono": "Tiranos cobalto.png"
+    },
+    {
+      "id": 24,
+      "nombre": "Yukata primaveral",
+      "icono": "Yukata primaveral.png"
+    },
+    {
+      "id": 25,
+      "nombre": "Arco dragon azul",
+      "icono": "Arco dragon azul.png"
+    },
+    {
+      "id": 26,
+      "nombre": "Arco feerico",
+      "icono": "Arco feerico.png"
+    },
+    {
+      "id": 27,
+      "nombre": "Arco Jormungand",
+      "icono": "Arco Jormungand.png"
+    },
+    {
+      "id": 28,
+      "nombre": "Arco levia",
+      "icono": "Arco levia.png"
+    },
+    {
+      "id": 29,
+      "nombre": "Asesino quitasol",
+      "icono": "Asesino quitasol.png"
+    },
+    {
+      "id": 30,
+      "nombre": "Cañon carambano",
+      "icono": "Cañon carambano.png"
+    },
+    {
+      "id": 31,
+      "nombre": "Globos agua",
+      "icono": "Globos agua.png"
+    },
+    {
+      "id": 32,
+      
+      "icono": "Arco Jormungand.png"
+    },
+    {
+      "id": 33,
+      "nombre": "Jormungand demoniaco",
+      "icono": "Jormungand demoniaco.png"
+    },
+    {
+      "id": 34,
+      "nombre": "Ropajes sirena",
+      "icono": "Ropajes sirena.png"
+    },
+  ]
+    
 }
