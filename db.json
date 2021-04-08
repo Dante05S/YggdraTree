@@ -242,52 +242,133 @@
     {
       "id": 1,
       "nombre": "Baston nieve",
-      "icono": "Magic/Baston nieve.png"
+      "icono": "Magic/Baston nieve.png",
+      "infoBasica":
+      {
+        "tipo": "Equipamiento",
+        "damage": "ATQM",
+        "elemento": "Agua",
+        "resTipo": "Magico",
+        "resRaza": "Ninguna"
+      }
     },
     {
       "id": 2,
       "nombre": "Alfanje",
-      "icono": "Melee/Alfanje.png"
+      "icono": "Melee/Alfanje.png",
+      "infoBasica":
+      {
+        "tipo": "Equipamiento",
+        "damage": "ATQ",
+        "elemento": "Agua",
+        "resTipo": "Cuerpo a cuerpo",
+        "resRaza": "Humanos,Elfos"
+      }
     },
     {
       "id": 3,
       "nombre": "Devlogrid",
-      "icono": "Melee/Devlogrid.png"
+      "icono": "Melee/Devlogrid.png",
+      "infoBasica":
+      {
+        "tipo": "Equipamiento",
+        "damage": "ATQ",
+        "elemento": "Agua",
+        "resTipo": "Cuerpo a cuerpo",
+        "resRaza": "Aesir,Elfos,Bestias"
+      }
     },
     {
       "id": 4,
       "nombre": "Guantelete Shinji",
-      "icono": "Melee/Guantelete Shinji.png"
+      "icono": "Melee/Guantelete Shinji.png",
+      "infoBasica":
+      {
+        "tipo": "Equipamiento",
+        "damage": "ATQ",
+        "elemento": "Agua",
+        "resTipo": "Cuerpo a cuerpo",
+        "resRaza": "Ninguna"
+      }
     },
     {
       "id": 5,
       "nombre": "Gungir lanza",
-      "icono": "Melee/Gungir lanza.png"
+      "icono": "Melee/Gungir lanza.png",
+      "infoBasica":
+      {
+        "tipo": "Equipamiento",
+        "damage": "ATQ,ATQM",
+        "elemento": "Agua",
+        "resTipo": "Ninguna",
+        "resRaza": "Aesir,Humano"
+      }
     },
     {
       "id": 6,
       "nombre": "Hacha Shinji",
-      "icono": "Melee/Hacha Shinji.png"
+      "icono": "Melee/Hacha Shinji.png",
+      "infoBasica":
+      {
+        "tipo": "Equipamiento",
+        "damage": "ATQ",
+        "elemento": "Agua",
+        "resTipo": "Cuerpo a cuerpo",
+        "resRaza": "Humano,Elfo,Therio"
+      }
+      
     },
     {
       "id": 7,
       "nombre": "Lanza resurreccion",
-      "icono": "Melee/Lanza resurreccion.png"
+      "icono": "Melee/Lanza resurreccion.png",
+      "infoBasica":
+      {
+        "tipo": "Equipamiento",
+        "damage": "ATQ",
+        "elemento": "Agua",
+        "resTipo": "Cuerpo a cuerpo,Arquero",
+        "resRaza": "Humano"
+      }
     },
     {
       "id": 8,
       "nombre": "Espada oceanica",
-      "icono": "Melee/Espada oceanica.png"
+      "icono": "Melee/Espada oceanica.png",
+      "infoBasica":
+      {
+        "tipo": "Equipamiento",
+        "damage": "ATQ",
+        "elemento": "Agua",
+        "resTipo": "Cuerpo a cuerpo",
+        "resRaza": "Aesir,Humano"
+      }
     },
     {
       "id": 9,
       "nombre": "Schmerznebel",
-      "icono": "Melee/Schmerznebel.png"
+      "icono": "Melee/Schmerznebel.png",
+      "infoBasica":
+      {
+        "tipo": "Equipamiento",
+        "damage": "ATQ",
+        "elemento": "Agua",
+        "resTipo": "Cuerpo a cuerpo",
+        "resRaza": "Aesir,Elfo,Therio,Bestia"
+      }
     },
     {
       "id": 10,
       "nombre": "Shishimai",
-      "icono": "Melee/Shishimai.png"
+      "icono": "Melee/Shishimai.png",
+      "infoBasica":
+      {
+        "tipo": "Equipamiento",
+        "damage": "ATQ",
+        "elemento": "Agua",
+        "resTipo": "Cuerpo a cuerpo,Arquero",
+        "resRaza": "Aesir,Enano,Therio"
+      }
     }
   ]
     
