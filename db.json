@@ -220,13 +220,13 @@
       {
         "1":
         {
-          "tipo": "ATQM"
+          "tipo": "ATQM",
           "base": 176,
           "max": 903
         },
         "2":
         {
-          "tipo": "DEFM"
+          "tipo": "DEFM",
           "base": 114,
           "max": 585 
         }
@@ -243,6 +243,27 @@
         "elemento": "Agua",
         "resTipo": "Cuerpo a cuerpo",
         "resRaza": "Humanos,Elfos"
+      },
+      "estadisticas":
+      {
+        "1":
+        {
+          "tipo": "ATQ",
+          "base": 250,
+          "max": 913
+        },
+        "2":
+        {
+          "tipo": "DEF",
+          "base": 98,
+          "max": 359 
+        },
+        "3":
+        {
+          "tipo": "VEL",
+          "base": 31,
+          "max": 113   
+        }
       }
     },
     {
@@ -256,6 +277,21 @@
         "elemento": "Agua",
         "resTipo": "Cuerpo a cuerpo",
         "resRaza": "Aesir,Elfos,Bestias"
+      },
+      "estadisticas":
+      {
+        "1":
+        {
+          "tipo": "PV",
+          "base": 980,
+          "max": 3591
+        },
+        "2":
+        {
+          "tipo": "ATQ",
+          "base": 280,
+          "max": 1026 
+        }
       }
     },
     {
@@ -269,6 +305,21 @@
         "elemento": "Agua",
         "resTipo": "Cuerpo a cuerpo",
         "resRaza": "Ninguna"
+      },
+      "estadisticas":
+      {
+        "1":
+        {
+          "tipo": "ATQ",
+          "base": 206,
+          "max": 1057
+        },
+        "2":
+        {
+          "tipo": "DEF",
+          "base": 64,
+          "max": 328 
+        }
       }
     },
     {
@@ -282,6 +333,21 @@
         "elemento": "Agua",
         "resTipo": "Ninguna",
         "resRaza": "Aesir,Humano"
+      },
+      "estadisticas":
+      {
+        "1":
+        {
+          "tipo": "ATQ",
+          "base": 196,
+          "max": 693
+        },
+        "2":
+        {
+          "tipo": "ATQM",
+          "base": 196,
+          "max": 693 
+        }
       }
     }
   ]
