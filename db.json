@@ -242,52 +242,52 @@
     {
       "id": 1,
       "nombre": "Baston nieve",
-      "icono": "Baston nieve.png"
+      "icono": "Magic/Baston nieve.png"
     },
     {
       "id": 2,
       "nombre": "Alfanje",
-      "icono": "Alfanje.png"
+      "icono": "Melee/Alfanje.png"
     },
     {
       "id": 3,
       "nombre": "Devlogrid",
-      "icono": "Devlogrid.png"
+      "icono": "Melee/Devlogrid.png"
     },
     {
       "id": 4,
       "nombre": "Guantelete Shinji",
-      "icono": "Guantelete Shinji.png"
+      "icono": "Melee/Guantelete Shinji.png"
     },
     {
       "id": 5,
       "nombre": "Gungir lanza",
-      "icono": "Gungir lanza.png"
+      "icono": "Melee/Gungir lanza.png"
     },
     {
       "id": 6,
       "nombre": "Hacha Shinji",
-      "icono": "Hacha Shinji.png"
+      "icono": "Melee/Hacha Shinji.png"
     },
     {
       "id": 7,
       "nombre": "Lanza resurreccion",
-      "icono": "Lanza resurreccion.png"
+      "icono": "Melee/Lanza resurreccion.png"
     },
     {
       "id": 8,
       "nombre": "Espada oceanica",
-      "icono": "Espada oceanica.png"
+      "icono": "Melee/Espada oceanica.png"
     },
     {
       "id": 9,
       "nombre": "Schmerznebel",
-      "icono": "Schmerznebel.png"
+      "icono": "Melee/Schmerznebel.png"
     },
     {
       "id": 10,
       "nombre": "Shishimai",
-      "icono": "Shishimai.png"
+      "icono": "Melee/Shishimai.png"
     }
   ]
     
