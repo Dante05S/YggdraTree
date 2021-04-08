@@ -216,6 +216,18 @@
           "base": 114,
           "max": 585 
         }
+      },
+      "habilidad": 
+      {
+        "nombre": "Escarcha de la eternidad",
+        "nivelHab":
+        {
+          "1": "120% de daño de agua MATK y ralentización durante 2 turnos a los 2 enemigos más lejanos.",
+          "2": "125% de daño de agua MATK y ralentización durante 2 turnos a los 2 enemigos más lejanos.",
+          "3": "130% de daño de agua MATK y ralentización durante 2 turnos a los 2 enemigos más lejanos.",
+          "4": "135% de daño de agua MATK y ralentización durante 2 turnos a los 2 enemigos más lejanos.",
+          "5": "140% de daño de agua MATK y ralentización durante 2 turnos a los 2 enemigos más lejanos."
+        }
       }
     },
     {
