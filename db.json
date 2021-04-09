@@ -283,12 +283,12 @@
         {
           "id": 1,
           "personajes":
-          {
+          [
             {
               "nombre": "Kanoe",
               "icono": "Kanoe.png"  
             }  
-          }
+          ]
         }
       },
       "Equipamiento":
