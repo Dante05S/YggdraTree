@@ -276,8 +276,32 @@
             }
           } 
         }
+      },
+      "Equipo": 
+      {
+        "1":
+        {
+          "id": 1,
+          "1":
+          {
+            "nombre": "Kanoe",
+            "icono": "Kanoe.png"
+          }
+        }
+      },
+      "Equipamiento":
+      {
+        "1":
+        {
+          "id": 1,
+          "1":
+          {
+            "nombre": "Baston de nieve",
+            "icono": "Magic/Baston nieve.png"
+          }
+        }
       }
-    }
+    }    
   ]
     
 }
