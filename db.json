@@ -171,20 +171,6 @@
                    "imgIcono": "Vidofnir.png"
                  }
                }     
-        },
-        {
-            "id": 2,
-            "nombre": "Gratias",
-            "imgCompleta": "Gratias.png",
-            "imgIcono": "Gratias.png",
-            "imgResistencia": "Resistencia Gratias.png"
-        },
-        {
-            "id": 3,
-            "nombre": "Frigg",
-            "imgCompleta": "Frigg.png",
-            "imgIcono": "Frigg.png",
-            "imgResistencia": "Resistencia Frigg.png"
         }
     ],
   
@@ -227,68 +213,6 @@
           "3": "130% de daño de agua MATK y ralentización durante 2 turnos a los 2 enemigos más lejanos.",
           "4": "135% de daño de agua MATK y ralentización durante 2 turnos a los 2 enemigos más lejanos.",
           "5": "140% de daño de agua MATK y ralentización durante 2 turnos a los 2 enemigos más lejanos."
-        }
-      }
-    },
-    {
-      "id": 2,
-      "nombre": "Alfanje",
-      "icono": "Melee/Alfanje.png",
-      "infoBasica":
-      {
-        "tipo": "Equipamiento",
-        "damage": "ATQ",
-        "elemento": "Agua",
-        "resTipo": "Cuerpo a cuerpo",
-        "resRaza": "Humanos,Elfos"
-      },
-      "estadisticas":
-      {
-        "1":
-        {
-          "tipo": "ATQ",
-          "base": 250,
-          "max": 913
-        },
-        "2":
-        {
-          "tipo": "DEF",
-          "base": 98,
-          "max": 359 
-        },
-        "3":
-        {
-          "tipo": "VEL",
-          "base": 31,
-          "max": 113   
-        }
-      }
-    },
-    {
-      "id": 3,
-      "nombre": "Devlogrid",
-      "icono": "Melee/Devlogrid.png",
-      "infoBasica":
-      {
-        "tipo": "Equipamiento",
-        "damage": "ATQ",
-        "elemento": "Agua",
-        "resTipo": "Cuerpo a cuerpo",
-        "resRaza": "Aesir,Elfos,Bestias"
-      },
-      "estadisticas":
-      {
-        "1":
-        {
-          "tipo": "PV",
-          "base": 980,
-          "max": 3591
-        },
-        "2":
-        {
-          "tipo": "ATQ",
-          "base": 280,
-          "max": 1026 
         }
       }
     }
