@@ -299,7 +299,13 @@
     {
       "id": 1,
       "nombre": "Vidofnir",
-      "imgIcono": "Vidofnir.png"
+      "imgIcono": "Vidofnir.png",
+      "infoBasica":
+      {
+        "tipo": "A distancia / Terrestre",
+        "raza": "Bestia / Masculino",
+        "elemento": "Fuego"
+      }
     }
   ]
     
