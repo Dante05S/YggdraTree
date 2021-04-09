@@ -285,6 +285,7 @@
           "personajes":
           [
             {
+              "id": 1,
               "nombre": "Kanoe",
               "icono": "Kanoe.png"  
             }  
