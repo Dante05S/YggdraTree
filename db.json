@@ -277,15 +277,17 @@
           } 
         }
       },
-      "Equipo": 
+      "Equipos": 
       {
         "1":
         {
           "id": 1,
-          "1":
+          "personajes":
           {
-            "nombre": "Kanoe",
-            "icono": "Kanoe.png"
+            {
+              "nombre": "Kanoe",
+              "icono": "Kanoe.png"  
+            }  
           }
         }
       },
