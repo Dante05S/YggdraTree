@@ -297,11 +297,14 @@
         "1":
         {
           "id": 1,
-          "1":
-          {
-            "nombre": "Baston de nieve",
-            "icono": "Magic/Baston nieve.png"
-          }
+          "personajes":
+          [
+            {
+              "id": 1,
+              "nombre": "Baston de nieve",
+              "icono": "Magic/Baston nieve.png"
+            }
+          ]
         }
       }
     }    
