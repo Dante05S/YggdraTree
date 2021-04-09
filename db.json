@@ -306,7 +306,23 @@
         "raza": "Bestia / Masculino",
         "elemento": "Fuego"
       },
-      "resistencia": "Resistencias vidofnir.png"
+      "resistencia": "Resistencias vidofnir.png",
+      "habAccion": 
+      {
+        "habilidades":
+        {
+          "1":
+          {
+            "id": 1,
+            "objetivo": "3 enemigos más lejanos",
+            "acciones"
+            {
+              "1": "Daño de ATQM de fuego * Aumento del 20% del daño contra jotun",
+              "2": "Quemadura x 3 turnos * Solo afecta a Aesir, Humano, Terio, Jotun y Bestia"
+            }
+          }
+        }
+      }
     }
   ]
     
