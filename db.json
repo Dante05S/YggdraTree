@@ -277,7 +277,7 @@
           } 
         }
       },
-      "Equipos": 
+      "equipos": 
       {
         "1":
         {
@@ -292,12 +292,12 @@
           ]
         }
       },
-      "Equipamiento":
+      "equipamiento":
       {
         "1":
         {
           "id": 1,
-          "equipamiento":
+          "gear":
           [
             {
               "id": 1,
