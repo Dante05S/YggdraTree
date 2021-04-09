@@ -305,7 +305,8 @@
         "tipo": "A distancia / Terrestre",
         "raza": "Bestia / Masculino",
         "elemento": "Fuego"
-      }
+      },
+      "resistencia": "Resistencias vidofnir.png"
     }
   ]
     
