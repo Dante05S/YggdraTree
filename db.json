@@ -246,6 +246,36 @@
             }
           }
         }
+      },
+      "autoHabilidad":
+      {
+        "autoH1":
+        {
+          "1":
+          {
+            "id": 1,
+            "objetivo": "Todos los enemigos",
+            "acciones":
+            {
+              "1": "Daño de ATQM de fuego * Aumento del 20% del daño contra jotun",
+              "2": "Quemadura x 2 turnos * Solo afecta a Aesir, Humano, Terio, Jotun y Bestia",
+            }
+          } 
+        },
+        "autoH2":
+        {
+          "1":
+          {
+            "id": 1,
+            "objetivo": "Todos los enemigos",
+            "acciones":
+            {
+              "1": "Daño de ATQM de fuego * Aumento del 20% del daño contra jotun",
+              "2": "Quemadura x 2 turnos * Solo afecta a Aesir, Humano, Terio, Jotun y Bestia",
+              "3": "Campo de niebla"
+            }
+          } 
+        }
       }
     }
   ]
